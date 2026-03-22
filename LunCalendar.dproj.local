@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.165,D:\Embarcadero\Studio\LunarCalendar\units\CnCalendar1.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.354,=D:\Embarcadero\Studio\LunarCalendar\units\CnCalendar1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.285,D:\Embarcadero\Studio\LunarCalendar\uMainFrm.pas=D:\Embarcadero\Studio\LunarCalendar\MainForm.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.285,D:\Embarcadero\Studio\LunarCalendar\uMainFrm.dfm=D:\Embarcadero\Studio\LunarCalendar\MainForm.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.324,D:\Embarcadero\Studio\LunarCalendar\units\uChineseCalendar.pas=</Transaction>
+    <Transaction>2026-03-22 10:29:16.369,=D:\Embarcadero\Studio\LunarCalendar\Unit1.pas</Transaction>
+    <Transaction>2026-03-22 10:30:11.176,D:\Embarcadero\Studio\LunarCalendar\units\uChinaCalendar.pas=D:\Embarcadero\Studio\LunarCalendar\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
